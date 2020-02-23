@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'OdibeeSans-Regular';
+  src: url('../fonts/OdibeeSans-Regular.eot');
+  src: url('../fonts/OdibeeSans-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/OdibeeSans-Regular.svg#OdibeeSans-Regular') format('svg'),
+       url('../fonts/OdibeeSans-Regular.woff') format('woff'),
+       url('../fonts/OdibeeSans-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}

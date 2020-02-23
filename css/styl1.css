@@ -8,6 +8,14 @@ h4{
 body{
 	padding: 0 2% 2% 2%;
 }
+h4{
+  font-family: 'OdibeeSans-Regular';
+  
+  
+}
+div{
+	font-family: 'OdibeeSans-Regular';
+}
 .blubox {
 	widows: 100%;
 	height: 100%;
